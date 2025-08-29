@@ -1,5 +1,5 @@
 # Graph Construction for Electrical Power Transmissions Networks (GC4EPTN)
-Source repo for *Data-Driven Graph Construction of Power Flow Graphs for Electric Power Transmission Networks*. 
+Source branch for *Automatic Data-driven Power Flow Graph Detection for Electric Power Transmission Systems*. 
 
 For the [online appendix](https://github.com/RL-BCI-Lab/gc4eptn/blob/master/online-appendix.pdf) containing additional results, see the `online-appendix.pdf` file.
 
@@ -61,7 +61,8 @@ All code execution is done through Jupyter Notebooks. See the `notebooks/` direc
 
 
 ## Citation
-```
+
+<!-- ```
 @INPROCEEDINGS{10903228,
   author={Poole, Benjamin and Ratnakumar, Rajan and Madurasinghe, Dulip Tharaka and Kümmerle, Christian and Venayagamoorthy, Ganesh Kumar and Lee, Minwoo},
   booktitle={2024 International Conference on Machine Learning and Applications (ICMLA)}, 
@@ -69,4 +70,4 @@ All code execution is done through Jupyter Notebooks. See the `notebooks/` direc
   year={2024},
   pages={346-353},
   doi={10.1109/ICMLA61862.2024.00053}}
-```
+``` -->
