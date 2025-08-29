@@ -3,15 +3,6 @@ Source repo for *Data-Driven Graph Construction of Power Flow Graphs for Electri
 
 For the [online appendix](https://github.com/RL-BCI-Lab/gc4eptn/blob/master/online-appendix.pdf) containing additional results, see the `online-appendix.pdf` file.
 
-<!-- ```
-@inproceedings{gc4eptn,
-    title={Data-Driven Graph Construction of Power Flow Graphs for Electric Power Transmission Networks},
-    author={},
-    booktitle={International Conference on Machine Learning and Applications},
-    year={2024},
-}
-``` -->
-
 ## Environment
 To create a a conda environment, follow the below instructions.
 
@@ -69,3 +60,13 @@ All code execution is done through Jupyter Notebooks. See the `notebooks/` direc
     - `pngs-synthetic-test`: Test PNGS algorithm assuming fully connected network graph estimation. Allows for testing graph refinement into flow graph when using worst case scenario for network estimation. 
 
 
+## Citation
+```
+@INPROCEEDINGS{10903228,
+  author={Poole, Benjamin and Ratnakumar, Rajan and Madurasinghe, Dulip Tharaka and Kümmerle, Christian and Venayagamoorthy, Ganesh Kumar and Lee, Minwoo},
+  booktitle={2024 International Conference on Machine Learning and Applications (ICMLA)}, 
+  title={Data-Driven Graph Construction of Power Flow Graphs for Electric Power Transmission Networks}, 
+  year={2024},
+  pages={346-353},
+  doi={10.1109/ICMLA61862.2024.00053}}
+```
